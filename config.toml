@@ -10,12 +10,12 @@ theme = "exampleTheme"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Posts"
+    name = "PostsTest"
     pre = "pen-tool"
     url = "/posts/"
     weight = 2
   [[menu.main]]
-    name = "Tags"
+    name = "TagsTest"
     pre = "tag"
     url = "/tags/"
     weight = 3
