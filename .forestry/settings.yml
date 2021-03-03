@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: index.html
+  label: First page
+  match: "**/*"
 - type: heading
   label: Sidebar test
 - type: directory
