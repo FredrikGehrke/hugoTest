@@ -8,5 +8,3 @@ fields:
     required: false
   label: Fredriks label
   description: Hjehejeheje
-pages:
-- content/posts/File name test.md
