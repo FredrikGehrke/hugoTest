@@ -7,7 +7,6 @@ sections:
 - type: document
   path: index.html
   label: First page
-  match: "**/*"
 - type: heading
   label: Sidebar test
 - type: directory
