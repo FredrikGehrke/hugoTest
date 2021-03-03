@@ -1,0 +1,8 @@
+{{ define "main" }}
+<div id="home-jumbotron" class="jumbotron text-center bg-grey">
+    <h1 class="title">{{ .Site.Title }}</h1>
+    <p class="text-black">Min paragraf</p>
+    <p>{{ .Site.Params.smalltext }}</p>
+    <p> {{ .Site.Params.test.Testtext }}</p>
+</div>
+{{ end }}
